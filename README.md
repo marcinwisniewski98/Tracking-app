@@ -3,7 +3,7 @@
 App shows your route and distance.<br/>
 !['using'](/readme%20pics/1.gif)<br/><br/>
 
-Use `clear` button to clear track.
+Use `clear` button to clear track.<br/>
 !['using'](/readme%20pics/2.gif)<br/><br/>
 
 ## How to start?
