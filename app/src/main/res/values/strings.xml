@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gdzie jestem na mapie</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="go">Clear</string>
+</resources>
